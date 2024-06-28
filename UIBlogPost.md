@@ -1,10 +1,5 @@
----
-title: "Creating a game UI framework"
-preview_title: "UI"
-layout: default
----
 
-![Buas Logo](assets/Logo_BUas_RGB.png)
+![Buas Logo](Logo_BUas_RGB.png)
 
 
 # Creating a game UI framework
